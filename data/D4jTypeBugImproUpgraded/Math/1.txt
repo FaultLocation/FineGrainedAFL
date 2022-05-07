@@ -1,0 +1,29 @@
+
+Project:  Math
+AssertStatement:  0
+Block:  0
+BreakStatement:  0
+ConstructorInvocation:  0
+ContinueStatement:  0
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  1
+ExpressionStatement:  8
+ForStatement:  4
+IfStatement:  26
+LabeledStatement:  0
+ReturnStatement:  19
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  0
+SynchronizedStatement:  0
+ThrowStatement:  3
+TryStatement:  0
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  43
+WhileStatement:  4
+ImportDeclaration:  0
+MethodInvocation:  13
+Assignment:  36
+
+项目：     Math     编号截至：98
