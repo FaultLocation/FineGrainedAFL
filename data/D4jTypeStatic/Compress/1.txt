@@ -1,0 +1,27 @@
+
+Project:  Compress
+AssertStatement:  0
+Block:  1570
+BreakStatement:  57
+ConstructorInvocation:  53
+ContinueStatement:  11
+DoStatement:  4
+EmptyStatement:  0
+EnhancedForStatement:  0
+ExpressionStatement:  2509
+ForStatement:  134
+IfStatement:  554
+LabeledStatement:  0
+ReturnStatement:  380
+SuperConstructorInvocation:  0
+SwitchCase:  43
+SwitchStatement:  9
+SynchronizedStatement:  3
+ThrowStatement:  118
+TryStatement:  49
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  811
+WhileStatement:  75
+ImportDeclaration:  324
+
+项目：     Compress     编号截至：80
