@@ -1,0 +1,29 @@
+
+Project:  Lang
+AssertStatement:  0
+Block:  0
+BreakStatement:  29
+ConstructorInvocation:  21
+ContinueStatement:  4
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  28
+ExpressionStatement:  16
+ForStatement:  81
+IfStatement:  528
+LabeledStatement:  0
+ReturnStatement:  390
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  17
+SynchronizedStatement:  5
+ThrowStatement:  5
+TryStatement:  22
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  400
+WhileStatement:  17
+ImportDeclaration:  0
+MethodInvocation:  327
+Assignment:  371
+
+项目：     Lang     编号截至：63
