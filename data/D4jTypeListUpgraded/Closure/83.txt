@@ -1,0 +1,179 @@
+com/google/javascript/jscomp/CommandLineRunner.java#432#class org.eclipse.jdt.core.dom.TryStatement
+com/google/javascript/jscomp/CommandLineRunner.java#433#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/CommandLineRunner.java#434#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/CommandLineRunner.java#355#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CommandLineRunner.java#447#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/CommandLineRunner.java#448#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/CommandLineRunner.java#363#unknown
+com/google/javascript/jscomp/CommandLineRunner.java#364#unknown
+com/google/javascript/jscomp/CommandLineRunner.java#365#unknown
+com/google/javascript/jscomp/CommandLineRunner.java#334#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/SourceFile.java#119#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/SourceFile.java#136#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/SourceFile.java#257#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/SourceFile.java#40#unknown
+com/google/javascript/jscomp/JSSourceFile.java#72#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/jscomp/JSSourceFile.java#73#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/JSSourceFile.java#74#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/JSSourceFile.java#55#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CommandLineRunner.java#83#unknown
+com/google/javascript/jscomp/CommandLineRunner.java#84#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#89#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#94#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#100#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#106#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#112#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#119#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#125#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#130#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#134#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#139#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#148#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#153#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#158#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#163#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#172#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#177#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#184#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#192#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#197#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#202#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#209#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#215#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#223#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#228#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#233#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#238#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#247#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#252#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#258#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#263#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#268#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#273#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#279#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#285#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#294#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#304#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#313#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#320#unknown
+com/google/javascript/jscomp/SourceMap.java#52#unknown
+com/google/javascript/jscomp/SourceMap.java#55#unknown
+com/google/javascript/jscomp/SourceMap.java#62#unknown
+com/google/javascript/jscomp/WarningLevel.java#26#unknown
+com/google/javascript/jscomp/WarningLevel.java#45#class org.eclipse.jdt.core.dom.ThrowStatement
+com/google/javascript/jscomp/WarningLevel.java#27#unknown
+com/google/javascript/jscomp/WarningLevel.java#29#unknown
+com/google/javascript/jscomp/WarningLevel.java#31#unknown
+com/google/javascript/jscomp/CommandLineRunner.java#329#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/jscomp/CommandLineRunner.java#330#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#321#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#323#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/SourceFile.java#79#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/SourceFile.java#62#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#382#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#387#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#400#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/jscomp/CommandLineRunner.java#401#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/CommandLineRunner.java#402#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#525#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#408#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CommandLineRunner.java#409#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CommandLineRunner.java#410#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CommandLineRunner.java#411#class org.eclipse.jdt.core.dom.EnhancedForStatement
+com/google/javascript/jscomp/CommandLineRunner.java#412#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CommandLineRunner.java#413#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CommandLineRunner.java#424#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/CommandLineRunner.java#428#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CommandLineRunner.java#429#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/CommandLineRunner.java#431#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/SourceFile.java#70#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/SourceFile.java#80#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/SourceFile.java#82#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/CommandLineRunner.java#437#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CommandLineRunner.java#446#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/SourceFile.java#83#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/SourceFile.java#84#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#484#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CommandLineRunner.java#610#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#113#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#98#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#99#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#100#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#101#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#102#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#107#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#114#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#115#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#116#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#117#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1188#unknown
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1189#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1197#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1208#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1219#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1227#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1235#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1247#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1258#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1269#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1279#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1295#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1306#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1317#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1328#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1342#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1353#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1363#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1377#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1388#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1399#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1413#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1425#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1439#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1450#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1461#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1472#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1483#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1494#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1509#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1523#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1533#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1543#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1554#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1566#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/SourceMap.java#35#unknown
+com/google/javascript/jscomp/SourceMap.java#36#unknown
+com/google/javascript/jscomp/SourceMap.java#41#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1146#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1147#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1148#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1149#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1114#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1118#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1123#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1128#unknown
+com/google/javascript/jscomp/CompilerOptions.java#1133#unknown
+com/google/javascript/jscomp/SourceFile.java#297#class org.eclipse.jdt.core.dom.ConstructorInvocation
+com/google/javascript/jscomp/SourceFile.java#298#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/SourceFile.java#301#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/jscomp/SourceFile.java#302#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/SourceFile.java#303#class org.eclipse.jdt.core.dom.MethodInvocation
+com/google/javascript/jscomp/SourceFile.java#304#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1134#unknown
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1135#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1136#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1137#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/AbstractCommandLineRunner.java#1138#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/SourceFile.java#110#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/SourceFile.java#111#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/SourceFile.java#118#class org.eclipse.jdt.core.dom.Assignment
+com/google/javascript/jscomp/SourceMap.java#55#unknown
+com/google/javascript/jscomp/SourceMap.java#62#unknown
+com/google/javascript/jscomp/SourceMap.java#41#unknown
+com/google/javascript/jscomp/SourceMap.java#36#unknown
+com/google/javascript/jscomp/CompilationLevel.java#49#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CompilationLevel.java#30#unknown
+com/google/javascript/jscomp/CompilationLevel.java#40#unknown
+com/google/javascript/jscomp/CompilationLevel.java#46#unknown
+com/google/javascript/jscomp/CompilationLevel.java#25#unknown
+com/google/javascript/jscomp/DefaultCodingConvention.java#32#unknown
