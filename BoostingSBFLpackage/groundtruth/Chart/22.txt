@@ -1,0 +1,3 @@
+org/jfree/data/KeyedObjects2D.java#231
+org/jfree/data/KeyedObjects2D.java#233
+org/jfree/data/KeyedObjects2D.java#378
