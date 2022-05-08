@@ -92,8 +92,8 @@ public class CalSBFLScore {
 			BufferedReader br = 
 					new BufferedReader(new InputStreamReader(new FileInputStream(
 						//	"/home/bitse/simfix (backup)/SimFix(1218)/d4j-info/location/ochiai/"+ProName+"/"+bugID+".txt"
-					//		"/home1/lileping/GZoltarResult (copy 1)/fault-localization.cs.washington.edu/data/"+ProName+"/"+bugID+"/gzoltars/"+ProName+"/"+bugID+"/"+"matrix"							
-							"/home1/lileping/tryGZoltar/"+ProName+"_"+bugID+"/"+"matrix"	
+					//		"/home1/GZoltarResult (copy 1)/fault-localization.cs.washington.edu/data/"+ProName+"/"+bugID+"/gzoltars/"+ProName+"/"+bugID+"/"+"matrix"							
+							"/home1/tryGZoltar/"+ProName+"_"+bugID+"/"+"matrix"	
 							)));		
 			
 			for(String line = br.readLine();line!=null;line = br.readLine())
@@ -130,8 +130,8 @@ public class CalSBFLScore {
 			BufferedReader br2 = 
 					new BufferedReader(new InputStreamReader(new FileInputStream(
 						//	"/home/bitse/simfix (backup)/SimFix(1218)/d4j-info/location/ochiai/"+ProName+"/"+bugID+".txt"
-				//			"/home1/lileping/GZoltarResult (copy 1)/fault-localization.cs.washington.edu/data/"+ProName+"/"+bugID+"/gzoltars/"+ProName+"/"+bugID+"/"+"spectra"	
-						"/home1/lileping/tryGZoltar/"+ProName+"_"+bugID+"/"+"spectra"	
+				//			"/home1/GZoltarResult (copy 1)/fault-localization.cs.washington.edu/data/"+ProName+"/"+bugID+"/gzoltars/"+ProName+"/"+bugID+"/"+"spectra"	
+						"/home1/tryGZoltar/"+ProName+"_"+bugID+"/"+"spectra"	
 					)));
 		
 			

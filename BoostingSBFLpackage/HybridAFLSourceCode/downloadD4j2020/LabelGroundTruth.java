@@ -316,7 +316,7 @@ public class LabelGroundTruth {
 					
 					// 20201231这里的两行用于统计错误的语句类型
 //					 String path =
-//					 "/home1/lileping/tmp/"+Pro.ProName+"_"+x+"_buggy/"+
+//					 "/home1/tmp/"+Pro.ProName+"_"+x+"_buggy/"+
 //					 Pro.SpecialRoot + buggystatements.get(i).Path;
 //					 int lineNum = buggystatements.get(i).lineNum;					 
 					 
@@ -328,13 +328,13 @@ public class LabelGroundTruth {
 			
 				jiezhi = x;
 
-					String filepath01 = "/home1/lileping/groundtruth/"+Pro.ProName;
+					String filepath01 = "/home1/groundtruth/"+Pro.ProName;
 					File newF01 = new File(filepath01);
 					if (!newF01.exists()) {
 						newF01.mkdir();
 					}
 
-					String filepath = "/home1/lileping/groundtruth/" + Pro.ProName + "/" +x + ".txt";// JYJ
+					String filepath = "/home1/groundtruth/" + Pro.ProName + "/" +x + ".txt";// JYJ
 																										// 改
 																							
 					// 1.txt

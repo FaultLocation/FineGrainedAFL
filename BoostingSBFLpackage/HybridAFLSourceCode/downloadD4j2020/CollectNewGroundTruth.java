@@ -33,7 +33,7 @@ public class CollectNewGroundTruth {
 			BufferedReader br = 
 					new BufferedReader(new InputStreamReader(new FileInputStream(
 			//				"/home/bitse/simfix (backup)/SimFix(1218)/d4j-info/location/ochiai/"+ProName+"/"+bugID+".txt"
-					"/home1/lileping/groundtruth/"+ProName+"/"+bugID+".txt"
+					"/home1/groundtruth/"+ProName+"/"+bugID+".txt"
 					
 					
 					)));

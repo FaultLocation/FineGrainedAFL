@@ -44,7 +44,7 @@ public class experiment {
 	public static String specialString = ".EnhancedForStatement";
 	
 	static String MathRoot = "/src/main/java/";
-	// 例如  "/home1/lileping/tmp/Math_1_buggy/src/main/java/org/apache/commons/mat1cjoxh3/fraction"
+	// 例如  "/home1/tmp/Math_1_buggy/src/main/java/org/apache/commons/mat1cjoxh3/fraction"
 			
 			
 	
@@ -935,7 +935,7 @@ public class experiment {
 		//				System.out.println("参数如下："  + Pro.lowerProName + "    " + BugID + "    " +Path+ "     "+ l.lineNum   );
 						
 						l.lineNum = getstatementbegin(
-								"/home1/lileping/tmp/"+Pro.ProName+"_"+BugID+"_buggy/"+
+								"/home1/tmp/"+Pro.ProName+"_"+BugID+"_buggy/"+
 												 Pro.SpecialRoot +	l.Path,
 										l.lineNum );
 						
@@ -978,7 +978,7 @@ public class experiment {
 					l.Path = Path+".java";
 					//l.lineNum = k;					
 					l.lineNum = getstatementbegin(
-					"/home1/lileping/tmp/"+Pro.ProName+"_"+BugID+"_buggy/"+
+					"/home1/tmp/"+Pro.ProName+"_"+BugID+"_buggy/"+
 									 Pro.SpecialRoot +	l.Path,
 							l.lineNum );
 			
@@ -1121,9 +1121,9 @@ public class experiment {
 //            String cmd2 ="/users/yanjiejiang/defects4j/framework/bin/defects4j checkout -p "+repo+" -v "+i+"b -w /Users/yanjiejiang/Downloads/checkout/"+repo+"_"+i+"_buggy";
 //            String r2 = execCmd(cmd2,null);
     
- //   	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"f -w /home1/lileping/tmp2/"+repo+"_"+i+"_fix";
-    	  // String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"b -w /home1/lileping/tmp/"+repo+"_"+i+"_buggy";
- 	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"b -w /home1/lileping/experimentbugs/"+repolow+"/"+repolow+"_"+i+"_buggy";
+ //   	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"f -w /home1/tmp2/"+repo+"_"+i+"_fix";
+    	  // String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"b -w /home1/tmp/"+repo+"_"+i+"_buggy";
+ 	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"b -w /home1/experimentbugs/"+repolow+"/"+repolow+"_"+i+"_buggy";
        	
     	   System.out.println(cmd1);
     	   String r1 =execCmd(cmd1,null);
@@ -1142,8 +1142,8 @@ public class experiment {
 //            String cmd2 ="/users/yanjiejiang/defects4j/framework/bin/defects4j checkout -p "+repo+" -v "+i+"b -w /Users/yanjiejiang/Downloads/checkout/"+repo+"_"+i+"_buggy";
 //            String r2 = execCmd(cmd2,null);
     
-    	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"f -w /home1/lileping/tmp2/"+repo+"_"+i+"_fix";
-//    	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"b -w /home1/lileping/tmp/"+repo+"_"+i+"_buggy";
+    	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"f -w /home1/tmp2/"+repo+"_"+i+"_fix";
+//    	   String cmd1 = "defects4j checkout -p " + repo+" -v "+i+"b -w /home1/tmp/"+repo+"_"+i+"_buggy";
        	
     	   System.out.println(cmd1);
     	   String r1 =execCmd(cmd1,null);
@@ -1218,9 +1218,9 @@ public class experiment {
     
     public static String getDiffInfo(int i, String repo,String path,String root) throws Exception 
     {   	
-    	String cmd1 = "diff /home1/lileping/tmp/"+repo+"_"+i+"_buggy/"+ root + path + ".java "
-    			+ "/home1/lileping/tmp2/"+repo+"_"+i+"_fix/" + root +path + ".java";
-    	//   例如 /home1/lileping/tmp/Math_1_buggy/src/main/java/org/apache/commons/math3/fraction
+    	String cmd1 = "diff /home1/tmp/"+repo+"_"+i+"_buggy/"+ root + path + ".java "
+    			+ "/home1/tmp2/"+repo+"_"+i+"_fix/" + root +path + ".java";
+    	//   例如 /home1/tmp/Math_1_buggy/src/main/java/org/apache/commons/math3/fraction
 //     cmd1 = cmd1.replace("//", "/");//20201207针对Lang项目路径不同一问题暂时遏制
     	
     //	System.out.println(cmd1);

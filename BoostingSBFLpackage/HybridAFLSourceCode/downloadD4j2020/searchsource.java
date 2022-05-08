@@ -29,13 +29,13 @@ public class searchsource {
 	public static String getStatementText(String ProName, int bugID, statementline l,String rootpath)
 	{
 //		System.out.println("kaishishiyan");
-//		System.out.println("/home1/lileping/tmp/"+ProName+"_"+bugID+"_buggy"+ rootpath+l.Path);
+//		System.out.println("/home1/tmp/"+ProName+"_"+bugID+"_buggy"+ rootpath+l.Path);
 		
 		
 		try{
 			BufferedReader br = 
 					new BufferedReader(new InputStreamReader(new FileInputStream(
-							"/home1/lileping/tmp/"+ProName+"_"+bugID+"_buggy"+rootpath+l.Path
+							"/home1/tmp/"+ProName+"_"+bugID+"_buggy"+rootpath+l.Path
 					)));
 		//	List<statementline> statements = new ArrayList<statementline>();
 			
