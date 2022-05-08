@@ -1,4 +1,0 @@
-org/apache/commons/lang3/time/DateUtils.java#259#class org.eclipse.jdt.core.dom.IfStatement
-org/apache/commons/lang3/time/DateUtils.java#262#class org.eclipse.jdt.core.dom.ReturnStatement
-org/apache/commons/lang3/time/DateUtils.java#60#class org.eclipse.jdt.core.dom.FieldDeclaration
-org/apache/commons/lang3/time/DateUtils.java#88#class org.eclipse.jdt.core.dom.FieldDeclaration

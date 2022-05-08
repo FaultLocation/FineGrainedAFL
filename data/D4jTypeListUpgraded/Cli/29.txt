@@ -1,6 +1,0 @@
-org/apache/commons/cli/Util.java#67#class org.eclipse.jdt.core.dom.Assignment
-org/apache/commons/cli/Util.java#72#class org.eclipse.jdt.core.dom.Assignment
-org/apache/commons/cli/Util.java#69#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
-org/apache/commons/cli/Util.java#70#class org.eclipse.jdt.core.dom.IfStatement
-org/apache/commons/cli/Util.java#65#class org.eclipse.jdt.core.dom.IfStatement
-org/apache/commons/cli/Util.java#75#class org.eclipse.jdt.core.dom.ReturnStatement

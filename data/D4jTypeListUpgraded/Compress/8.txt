@@ -1,6 +1,0 @@
-org/apache/commons/compress/archivers/tar/TarUtils.java#52#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
-org/apache/commons/compress/archivers/tar/TarUtils.java#53#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
-org/apache/commons/compress/archivers/tar/TarUtils.java#54#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
-org/apache/commons/compress/archivers/tar/TarUtils.java#55#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
-org/apache/commons/compress/archivers/tar/TarUtils.java#57#class org.eclipse.jdt.core.dom.ForStatement
-org/apache/commons/compress/archivers/tar/TarUtils.java#86#class org.eclipse.jdt.core.dom.ReturnStatement
