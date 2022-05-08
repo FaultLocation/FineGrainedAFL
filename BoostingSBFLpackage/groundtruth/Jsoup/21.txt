@@ -1,0 +1,9 @@
+org/jsoup/select/QueryParser.java#58
+org/jsoup/select/QueryParser.java#59
+org/jsoup/select/QueryParser.java#60
+org/jsoup/select/QueryParser.java#61
+org/jsoup/select/QueryParser.java#62
+org/jsoup/select/QueryParser.java#63
+org/jsoup/select/QueryParser.java#64
+org/jsoup/select/QueryParser.java#66
+org/jsoup/select/QueryParser.java#66

@@ -1,0 +1,15 @@
+org/jsoup/nodes/XmlDeclaration.java#46
+org/jsoup/nodes/XmlDeclaration.java#47
+org/jsoup/nodes/XmlDeclaration.java#48
+org/jsoup/nodes/XmlDeclaration.java#49
+org/jsoup/nodes/XmlDeclaration.java#50
+org/jsoup/nodes/XmlDeclaration.java#51
+org/jsoup/nodes/XmlDeclaration.java#53
+org/jsoup/nodes/XmlDeclaration.java#54
+org/jsoup/nodes/XmlDeclaration.java#55
+org/jsoup/nodes/XmlDeclaration.java#57
+org/jsoup/nodes/XmlDeclaration.java#60
+org/jsoup/nodes/XmlDeclaration.java#65
+org/jsoup/parser/XmlTreeBuilder.java#76
+org/jsoup/parser/XmlTreeBuilder.java#77
+org/jsoup/parser/XmlTreeBuilder.java#77

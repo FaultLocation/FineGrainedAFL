@@ -1,0 +1,3 @@
+org/jsoup/nodes/Entities.java#70
+org/jsoup/nodes/Entities.java#72
+org/jsoup/nodes/Entities.java#72

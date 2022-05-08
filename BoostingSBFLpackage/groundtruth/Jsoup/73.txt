@@ -1,0 +1,4 @@
+org/jsoup/helper/W3CDom.java#73
+org/jsoup/helper/W3CDom.java#85
+org/jsoup/helper/W3CDom.java#144
+org/jsoup/helper/W3CDom.java#144

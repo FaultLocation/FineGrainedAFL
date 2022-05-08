@@ -1,0 +1,13 @@
+org/jsoup/parser/HtmlTreeBuilder.java#337
+org/jsoup/parser/HtmlTreeBuilder.java#569
+org/jsoup/parser/HtmlTreeBuilder.java#569
+org/jsoup/parser/HtmlTreeBuilder.java#618
+org/jsoup/parser/HtmlTreeBuilder.java#689
+org/jsoup/parser/HtmlTreeBuilderState.java#253
+org/jsoup/parser/HtmlTreeBuilderState.java#253
+org/jsoup/parser/HtmlTreeBuilderState.java#253
+org/jsoup/parser/HtmlTreeBuilderState.java#253
+org/jsoup/parser/HtmlTreeBuilderState.java#768
+org/jsoup/parser/HtmlTreeBuilderState.java#772
+org/jsoup/parser/HtmlTreeBuilderState.java#774
+org/jsoup/parser/HtmlTreeBuilderState.java#774
