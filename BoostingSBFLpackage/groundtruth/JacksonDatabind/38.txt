@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/type/CollectionType.java#50
+com/fasterxml/jackson/databind/type/MapType.java#48
+com/fasterxml/jackson/databind/type/SimpleType.java#116
+com/fasterxml/jackson/databind/type/SimpleType.java#116
+com/fasterxml/jackson/databind/type/SimpleType.java#116

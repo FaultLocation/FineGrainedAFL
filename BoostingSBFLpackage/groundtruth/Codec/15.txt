@@ -1,0 +1,5 @@
+org/apache/commons/codec/language/Soundex.java#188
+org/apache/commons/codec/language/Soundex.java#189
+org/apache/commons/codec/language/Soundex.java#190
+org/apache/commons/codec/language/Soundex.java#191
+org/apache/commons/codec/language/Soundex.java#192

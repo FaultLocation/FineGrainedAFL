@@ -1,0 +1,8 @@
+org/apache/commons/codec/net/QuotedPrintableCodec.java#178
+org/apache/commons/codec/net/QuotedPrintableCodec.java#179
+org/apache/commons/codec/net/QuotedPrintableCodec.java#180
+org/apache/commons/codec/net/QuotedPrintableCodec.java#183
+org/apache/commons/codec/net/QuotedPrintableCodec.java#184
+org/apache/commons/codec/net/QuotedPrintableCodec.java#189
+org/apache/commons/codec/net/QuotedPrintableCodec.java#229
+org/apache/commons/codec/net/QuotedPrintableCodec.java#234

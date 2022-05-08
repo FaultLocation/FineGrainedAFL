@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/ser/std/EnumSerializer.java#86
+com/fasterxml/jackson/databind/ser/std/EnumSerializer.java#103
+com/fasterxml/jackson/databind/ser/std/EnumSerializer.java#220
+com/fasterxml/jackson/databind/ser/std/EnumSerializer.java#225
+com/fasterxml/jackson/databind/ser/std/EnumSerializer.java#225

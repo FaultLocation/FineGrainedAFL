@@ -1,0 +1,6 @@
+org/apache/commons/codec/binary/Base64.java#420
+org/apache/commons/codec/binary/Base64.java#421
+org/apache/commons/codec/binary/Base64.java#422
+org/apache/commons/codec/binary/Base64.java#423
+org/apache/commons/codec/binary/Base64InputStream.java#169
+org/apache/commons/codec/binary/Base64InputStream.java#170

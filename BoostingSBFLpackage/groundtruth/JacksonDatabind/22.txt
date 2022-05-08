@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java#174
+com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java#175
+com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java#176
+com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java#176

@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/ser/BeanSerializerFactory.java#163
+com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java#126
+com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java#126
+com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java#161
+com/fasterxml/jackson/databind/ser/std/StdDelegatingSerializer.java#161
