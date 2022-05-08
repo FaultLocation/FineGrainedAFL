@@ -81,35 +81,35 @@ public class ShowResultAllLinux {
 		 math.ifsus = 2.58;
 		 closure.ifsus = 2.51;
 		 
-//		 chart.forsus = 0.51;
-//		 time.forsus = 0.51;
-//		 lang.forsus = 0.51;
-//		 math.forsus = 0.54;
-//		 closure.forsus = 0.41;
+		 chart.forsus = 0.51;
+		 time.forsus = 0.51;
+		 lang.forsus = 0.51;
+		 math.forsus = 0.54;
+		 closure.forsus = 0.41;
 		
-//		 chart.expsus = 0.58;
-//		 time.expsus = 0.58;
-//		 lang.expsus = 0.58;
-//		 math.expsus = 0.56;
-//		 closure.expsus = 0.61;
+		 chart.expsus = 0.58;
+		 time.expsus = 0.58;
+		 lang.expsus = 0.58;
+		 math.expsus = 0.56;
+		 closure.expsus = 0.61;
 		 
-//		 chart.enforsus = 0.4;
-//		 time.enforsus = 0.4;
-//		 lang.enforsus = 0.4;
-//		 math.enforsus = 0.33;
-//		 closure.enforsus = 0.3;
-//		 
-//		 chart.varsus = 0.81;
-//		 time.varsus = 0.81;
-//		 lang.varsus = 0.81;
-//		 math.varsus = 0.8;
-//		 closure.varsus = 0.79;
-//		 
-//		 chart.retsus = 1.24;
-//		 time.retsus = 1.24;
-//		 lang.retsus = 1.24;
-//		 math.retsus = 1.19;
-//		 closure.retsus = 1.27;
+		 chart.enforsus = 0.4;
+		 time.enforsus = 0.4;
+		 lang.enforsus = 0.4;
+		 math.enforsus = 0.33;
+		 closure.enforsus = 0.3;
+		 
+		 chart.varsus = 0.81;
+		 time.varsus = 0.81;
+		 lang.varsus = 0.81;
+		 math.varsus = 0.8;
+		 closure.varsus = 0.79;
+		 
+		 chart.retsus = 1.24;
+		 time.retsus = 1.24;
+		 lang.retsus = 1.24;
+		 math.retsus = 1.19;
+		 closure.retsus = 1.27;
 		 
 //		 for(int i=0;i<chart.rest.length;i++)
 //		 {
@@ -120,11 +120,11 @@ public class ShowResultAllLinux {
 //			 creatTypeList("time", time.rest[i]);			 
 //		 }
 		 
-//		 runExperiment(lang);
-//		 runExperiment(math);
+		 runExperiment(lang);
+		 runExperiment(math);
 		 runExperiment(closure);		
-//		 runExperiment(chart);
-//		 runExperiment(time);
+		 runExperiment(chart);
+		 runExperiment(time);
 		 
 //		 ArrayList<Integer> restlang = new ArrayList<Integer>();
 //		 for(int i=0;i<langset.length;i++)
