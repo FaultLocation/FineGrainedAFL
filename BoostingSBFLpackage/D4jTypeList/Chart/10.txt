@@ -1,0 +1,3 @@
+org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java#54#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java#55#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java#65#class org.eclipse.jdt.core.dom.ReturnStatement

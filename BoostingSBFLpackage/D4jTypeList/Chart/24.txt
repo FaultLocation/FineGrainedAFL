@@ -1,0 +1,11 @@
+org/jfree/chart/renderer/GrayPaintScale.java#124#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jfree/chart/renderer/GrayPaintScale.java#125#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jfree/chart/renderer/GrayPaintScale.java#126#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jfree/chart/renderer/GrayPaintScale.java#128#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jfree/chart/renderer/GrayPaintScale.java#72#class org.eclipse.jdt.core.dom.ConstructorInvocation
+org/jfree/chart/renderer/GrayPaintScale.java#73#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jfree/chart/renderer/GrayPaintScale.java#91#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jfree/chart/renderer/GrayPaintScale.java#84#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jfree/chart/renderer/GrayPaintScale.java#85#class org.eclipse.jdt.core.dom.IfStatement
+org/jfree/chart/renderer/GrayPaintScale.java#89#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jfree/chart/renderer/GrayPaintScale.java#90#class org.eclipse.jdt.core.dom.ExpressionStatement
