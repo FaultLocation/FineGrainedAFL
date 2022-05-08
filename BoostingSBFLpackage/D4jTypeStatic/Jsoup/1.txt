@@ -1,0 +1,27 @@
+
+Project:  Jsoup
+AssertStatement:  0
+Block:  695
+BreakStatement:  2
+ConstructorInvocation:  22
+ContinueStatement:  7
+DoStatement:  1
+EmptyStatement:  0
+EnhancedForStatement:  53
+ExpressionStatement:  938
+ForStatement:  10
+IfStatement:  177
+LabeledStatement:  5
+ReturnStatement:  379
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  0
+SynchronizedStatement:  2
+ThrowStatement:  9
+TryStatement:  4
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  608
+WhileStatement:  12
+ImportDeclaration:  144
+
+项目：     Jsoup     编号截至：40
