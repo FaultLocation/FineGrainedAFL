@@ -1,0 +1,4 @@
+com/google/debugging/sourcemap/SourceMapConsumerV3.java#487
+com/google/debugging/sourcemap/SourceMapConsumerV3.java#487
+com/google/javascript/jscomp/SourceMap.java#139
+com/google/javascript/jscomp/SourceMap.java#139

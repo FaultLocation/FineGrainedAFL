@@ -1,0 +1,6 @@
+com/google/javascript/jscomp/FoldConstants.java#1477
+com/google/javascript/jscomp/FoldConstants.java#1483
+com/google/javascript/jscomp/FoldConstants.java#1488
+com/google/javascript/jscomp/FoldConstants.java#1492
+com/google/javascript/jscomp/FoldConstants.java#1500
+com/google/javascript/jscomp/FoldConstants.java#1500

@@ -1,0 +1,3 @@
+com/google/javascript/jscomp/Compiler.java#1432
+com/google/javascript/jscomp/Compiler.java#1473
+com/google/javascript/jscomp/Compiler.java#1473

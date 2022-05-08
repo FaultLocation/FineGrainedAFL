@@ -1,0 +1,4 @@
+com/google/javascript/jscomp/TypeInference.java#1038
+com/google/javascript/jscomp/TypeInference.java#1059
+com/google/javascript/jscomp/TypeInference.java#1060
+com/google/javascript/jscomp/TypeInference.java#1060
