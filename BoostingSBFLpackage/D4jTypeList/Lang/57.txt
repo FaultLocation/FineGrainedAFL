@@ -1,0 +1,6 @@
+org/apache/commons/lang/LocaleUtils.java#47#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/lang/LocaleUtils.java#49#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/lang/LocaleUtils.java#51#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/lang/LocaleUtils.java#52#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/apache/commons/lang/LocaleUtils.java#53#unknown
+org/apache/commons/lang/LocaleUtils.java#223#class org.eclipse.jdt.core.dom.ReturnStatement

@@ -1,0 +1,982 @@
+org/jsoup/parser/TokeniserState.java#977#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#978#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/Tokeniser.java#161#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#125#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#219#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#217#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#973#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#974#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#117#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#118#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#119#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#975#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#68#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#142#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#162#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#155#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#160#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#107#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/nodes/Entities.java#108#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#109#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#110#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#93#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#103#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#105#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#121#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#122#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#123#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#124#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Entities.java#106#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#127#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Entities.java#128#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#129#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#163#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#141#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#160#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#52#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#109#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#135#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#136#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#137#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#139#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#140#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/CharacterReader.java#156#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#157#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/Tokeniser.java#149#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#158#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#159#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#51#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#52#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/CharacterReader.java#164#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/CharacterReader.java#165#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#166#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#172#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#108#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#101#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#103#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#105#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#238#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#233#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#234#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/parser/CharacterReader.java#235#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#230#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#157#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#158#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#211#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#260#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#115#class org.eclipse.jdt.core.dom.TryStatement
+org/jsoup/nodes/Entities.java#112#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#113#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#251#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#252#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#236#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#249#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#210#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#205#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#206#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#256#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#209#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/parser/Tokeniser.java#145#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#144#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#200#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#212#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#257#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#258#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#56#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/CharacterReader.java#55#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#122#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#121#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#38#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Document.java#234#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Document.java#235#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#13#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#34#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#35#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#12#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#39#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#40#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilderState.java#234#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#155#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#80#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#81#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/ParseErrorList.java#20#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/TextNode.java#99#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#69#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#75#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#74#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#401#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#412#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#413#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#414#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#415#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/StringUtil.java#72#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/StringUtil.java#73#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/parser/HtmlTreeBuilder.java#631#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#69#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#150#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#151#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#153#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#968#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/TokeniserState.java#970#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#971#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#902#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#903#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#963#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#964#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#965#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#989#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#967#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#82#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1462#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#258#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#259#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#260#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#262#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#254#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#249#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#250#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1460#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1461#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1457#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1459#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1387#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1411#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1427#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1444#unknown
+org/jsoup/parser/TokeniserState.java#722#unknown
+org/jsoup/parser/TokeniserState.java#752#unknown
+org/jsoup/parser/Token.java#254#unknown
+org/jsoup/parser/TokeniserState.java#796#unknown
+org/jsoup/parser/TokeniserState.java#838#unknown
+org/jsoup/parser/TokeniserState.java#883#unknown
+org/jsoup/parser/TokeniserState.java#1252#unknown
+org/jsoup/parser/TokeniserState.java#6#unknown
+org/jsoup/parser/TokeniserState.java#931#unknown
+org/jsoup/parser/TokeniserState.java#961#unknown
+org/jsoup/parser/TokeniserState.java#31#unknown
+org/jsoup/parser/TokeniserState.java#7#unknown
+org/jsoup/parser/TokeniserState.java#42#unknown
+org/jsoup/parser/TokeniserState.java#67#unknown
+org/jsoup/parser/TokeniserState.java#77#unknown
+org/jsoup/parser/TokeniserState.java#98#unknown
+org/jsoup/parser/TokeniserState.java#119#unknown
+org/jsoup/parser/TokeniserState.java#137#unknown
+org/jsoup/parser/TokeniserState.java#163#unknown
+org/jsoup/parser/TokeniserState.java#181#unknown
+org/jsoup/parser/TokeniserState.java#213#unknown
+org/jsoup/parser/TokeniserState.java#232#unknown
+org/jsoup/parser/TokeniserState.java#245#unknown
+org/jsoup/parser/TokeniserState.java#991#unknown
+org/jsoup/parser/TokeniserState.java#1039#unknown
+org/jsoup/parser/TokeniserState.java#1054#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#1055#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#1056#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#1069#unknown
+org/jsoup/parser/TokeniserState.java#1088#unknown
+org/jsoup/parser/TokeniserState.java#1100#unknown
+org/jsoup/parser/TokeniserState.java#1118#unknown
+org/jsoup/parser/TokeniserState.java#1146#unknown
+org/jsoup/parser/TokeniserState.java#1174#unknown
+org/jsoup/parser/TokeniserState.java#1196#unknown
+org/jsoup/parser/TokeniserState.java#1219#unknown
+org/jsoup/parser/TokeniserState.java#1280#unknown
+org/jsoup/parser/TokeniserState.java#1304#unknown
+org/jsoup/parser/TokeniserState.java#1338#unknown
+org/jsoup/parser/TokeniserState.java#1373#unknown
+org/jsoup/parser/TokeniserState.java#1399#unknown
+org/jsoup/parser/TokeniserState.java#1439#unknown
+org/jsoup/parser/TokeniserState.java#1476#unknown
+org/jsoup/parser/TokeniserState.java#1504#unknown
+org/jsoup/parser/TokeniserState.java#1532#unknown
+org/jsoup/parser/TokeniserState.java#1570#unknown
+org/jsoup/parser/TokeniserState.java#1607#unknown
+org/jsoup/parser/TokeniserState.java#1647#unknown
+org/jsoup/parser/TokeniserState.java#1684#unknown
+org/jsoup/parser/TokeniserState.java#1712#unknown
+org/jsoup/parser/TokeniserState.java#1740#unknown
+org/jsoup/parser/TokeniserState.java#1767#unknown
+org/jsoup/parser/TokeniserState.java#1785#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#14#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#13#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#155#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#290#unknown
+org/jsoup/parser/TokeniserState.java#301#unknown
+org/jsoup/parser/TokeniserState.java#312#unknown
+org/jsoup/parser/TokeniserState.java#351#unknown
+org/jsoup/parser/TokeniserState.java#369#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#37#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#66#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#94#unknown
+org/jsoup/parser/TokeniserState.java#381#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#165#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#194#unknown
+org/jsoup/parser/TokeniserState.java#421#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#240#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#241#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#242#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#245#unknown
+org/jsoup/parser/TokeniserState.java#431#unknown
+org/jsoup/parser/TokeniserState.java#441#unknown
+org/jsoup/parser/TokeniserState.java#468#unknown
+org/jsoup/parser/TokeniserState.java#496#unknown
+org/jsoup/parser/TokeniserState.java#527#unknown
+org/jsoup/parser/TokeniserState.java#543#unknown
+org/jsoup/parser/TokeniserState.java#556#unknown
+org/jsoup/parser/TokeniserState.java#597#unknown
+org/jsoup/parser/TokeniserState.java#627#unknown
+org/jsoup/parser/TokeniserState.java#654#unknown
+org/jsoup/parser/TokeniserState.java#681#unknown
+org/jsoup/parser/TokeniserState.java#711#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#785#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#804#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#903#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#939#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#974#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1029#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1089#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1150#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1207#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1295#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1313#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#1341#unknown
+org/jsoup/parser/TokeniserState.java#26#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#25#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#160#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#161#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#162#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#63#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#49#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#84#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#88#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#89#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#51#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#55#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#61#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#62#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#227#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/Jsoup.java#58#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#161#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#193#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#162#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Parser.java#90#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Parser.java#89#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Token.java#135#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#133#class org.eclipse.jdt.core.dom.ConstructorInvocation
+org/jsoup/parser/Token.java#134#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#32#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#31#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#27#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#28#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#29#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#190#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#49#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#194#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#195#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#50#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#47#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#48#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#26#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#562#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#563#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#561#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Token.java#161#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#159#class org.eclipse.jdt.core.dom.ConstructorInvocation
+org/jsoup/parser/Token.java#160#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#76#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#77#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#254#unknown
+org/jsoup/parser/Token.java#191#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#192#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#195#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#247#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#189#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#46#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#47#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#48#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#190#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#210#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#208#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#209#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#37#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#36#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#77#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#226#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#78#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#236#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#79#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#80#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#81#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#18#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#20#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#16#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#91#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#39#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#142#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#143#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#144#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#145#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#146#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#42#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#44#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#46#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#68#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#70#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#196#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#198#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#200#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#202#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#203#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#204#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#205#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#200#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#464#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#465#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilderState.java#207#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#72#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#75#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Token.java#219#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#235#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#211#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#96#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#100#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#157#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1466#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TreeBuilder.java#40#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#41#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#42#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#227#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#209#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#211#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#213#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/DescendableLinkedList.java#32#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/DescendableLinkedList.java#40#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Element.java#142#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#471#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#465#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Node.java#466#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Node.java#467#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#468#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/NodeTraversor.java#42#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/select/NodeTraversor.java#46#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/NodeTraversor.java#17#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/NodeTraversor.java#18#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#19#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/NodeTraversor.java#26#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/select/NodeTraversor.java#27#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/StringUtil.java#103#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/NodeTraversor.java#29#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/select/NodeTraversor.java#30#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#31#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/NodeTraversor.java#35#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/select/NodeTraversor.java#40#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#41#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#462#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#498#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#215#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#110#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#109#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/helper/StringUtil.java#139#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#135#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/helper/StringUtil.java#136#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#155#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#156#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#243#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1456#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#148#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#166#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#167#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#168#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#154#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#247#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#760#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#231#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#43#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#44#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#205#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#84#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#93#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#94#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#199#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#83#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#472#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#201#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#204#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Document.java#348#unknown
+org/jsoup/nodes/Entities.java#27#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Entities.java#28#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#29#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#156#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Element.java#67#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tag.java#259#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#260#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#154#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jsoup/nodes/Entities.java#155#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#156#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#158#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#159#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#160#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#163#class org.eclipse.jdt.core.dom.TryStatement
+org/jsoup/nodes/Entities.java#165#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/nodes/Entities.java#166#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#167#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#168#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#169#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Entities.java#170#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#174#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#175#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/nodes/Entities.java#176#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#177#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#179#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#181#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#182#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#184#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Entities.java#186#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Entities.java#187#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#155#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#52#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/CharacterReader.java#128#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/CharacterReader.java#126#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/parser/CharacterReader.java#127#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#47#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#130#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#133#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#88#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#89#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#92#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#93#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#94#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/CharacterReader.java#48#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/ParseErrorList.java#28#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#123#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#125#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/TokeniserState.java#23#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#22#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#22#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/CharacterReader.java#29#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/CharacterReader.java#33#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TreeBuilder.java#24#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#25#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#27#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#28#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#29#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#30#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#31#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#32#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#33#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#416#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#13#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#14#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TreeBuilder.java#47#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TreeBuilder.java#48#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TreeBuilder.java#50#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TreeBuilder.java#51#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/nodes/Node.java#429#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TreeBuilder.java#53#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TreeBuilder.java#58#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#431#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#223#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/Validate.java#53#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/Validate.java#55#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/Validate.java#63#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/Validate.java#65#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilderState.java#678#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#679#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#680#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tag.java#35#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#432#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Element.java#267#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Element.java#268#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#10#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/Token.java#47#unknown
+org/jsoup/parser/Token.java#52#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Token.java#81#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#82#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#91#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Element.java#58#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Element.java#265#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#127#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jsoup/parser/Token.java#128#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#129#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#130#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#383#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#385#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#386#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#502#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/ParseErrorList.java#15#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jsoup/parser/ParseErrorList.java#16#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/ParseErrorList.java#17#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#29#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#503#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#30#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#18#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tokeniser.java#20#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tokeniser.java#21#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tokeniser.java#28#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tokeniser.java#31#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#32#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#33#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#36#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#41#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/Tokeniser.java#42#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#45#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#411#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/nodes/Node.java#412#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#205#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tokeniser.java#50#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#51#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#56#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#58#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#59#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#61#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#71#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#206#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#207#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#413#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#414#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#18#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/CharacterReader.java#15#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/CharacterReader.java#16#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/CharacterReader.java#19#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#20#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#21#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Document.java#28#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tag.java#25#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Tag.java#17#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#18#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#19#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#20#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#21#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#22#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#23#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/Tag.java#26#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#27#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Document.java#27#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jsoup/parser/Tag.java#51#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#52#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#53#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#55#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tag.java#57#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#58#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#59#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Document.java#17#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Document.java#18#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Document.java#214#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Document.java#208#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Document.java#209#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Document.java#210#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Document.java#211#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Document.java#212#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/TokeniserState.java#1042#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/nodes/Element.java#54#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Element.java#53#class org.eclipse.jdt.core.dom.ConstructorInvocation
+org/jsoup/parser/TokeniserState.java#1041#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#1067#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilderState.java#657#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#660#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#663#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#664#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#665#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#666#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#667#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#668#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#669#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#670#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#671#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#672#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#677#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tag.java#50#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tag.java#62#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Element.java#40#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Element.java#41#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Element.java#42#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Element.java#38#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jsoup/parser/Tag.java#47#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tag.java#48#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/Validate.java#93#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#32#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#21#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#25#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#26#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#28#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#29#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#30#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/helper/Validate.java#91#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#38#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#31#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Attributes.java#17#unknown
+org/jsoup/nodes/Attributes.java#20#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/nodes/Attributes.java#191#unknown
+org/jsoup/nodes/Node.java#32#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#33#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#35#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#36#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#37#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/helper/Validate.java#15#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/Validate.java#17#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#626#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#628#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#629#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TreeBuilder.java#14#unknown
+org/jsoup/parser/HtmlTreeBuilderState.java#651#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#653#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/DescendableLinkedList.java#17#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/DescendableLinkedList.java#16#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/jsoup/parser/HtmlTreeBuilderState.java#649#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#650#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#608#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#609#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/HtmlTreeBuilder.java#610#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#611#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#612#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#613#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/HtmlTreeBuilder.java#616#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#625#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/Validate.java#25#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/Validate.java#27#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/HtmlTreeBuilder.java#623#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#624#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/HtmlTreeBuilder.java#233#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#231#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#232#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#225#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#229#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#230#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/nodes/Node.java#549#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#534#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#535#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#536#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/HtmlTreeBuilder.java#549#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#550#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/StringUtil.java#117#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Document.java#300#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#121#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/StringUtil.java#123#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/helper/StringUtil.java#124#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#550#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/StringUtil.java#54#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/StringUtil.java#55#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#51#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Document.java#59#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#171#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Document.java#173#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#170#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#164#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Document.java#165#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#167#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/nodes/Document.java#168#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Document.java#169#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Document.java#194#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/Elements.java#461#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/TextNode.java#95#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#1005#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/nodes/Node.java#74#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#1004#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#71#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#73#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#645#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Element.java#89#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#642#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Element.java#1081#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#98#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/TextNode.java#93#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/TextNode.java#100#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#101#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/TextNode.java#94#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#632#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Element.java#1076#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Element.java#1080#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/nodes/Element.java#1074#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Element.java#1082#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Element.java#1075#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#622#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Attributes.java#78#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tag.java#80#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/TextNode.java#32#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#221#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#225#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#72#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#273#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#83#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#84#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Document.java#282#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#80#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#81#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Entities.java#76#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#77#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Entities.java#79#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/nodes/Entities.java#32#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Entities.java#89#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#612#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#533#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#603#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#604#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#605#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#606#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#609#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#610#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#613#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#615#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#528#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#529#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Node.java#240#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#236#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Node.java#235#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#237#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Attributes.java#33#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Attributes.java#36#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/nodes/Attributes.java#37#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Attributes.java#31#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attribute.java#50#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Document.java#334#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#69#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#64#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#76#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#65#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#886#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/TokeniserState.java#815#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#816#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#929#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#61#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Token.java#117#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#118#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#885#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#790#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#791#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#792#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#400#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#799#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#800#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#56#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Token.java#109#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#110#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#59#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#836#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#802#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#803#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/Token.java#67#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Token.java#68#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#389#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Token.java#70#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#195#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/select/QueryParser.java#68#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#194#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokenQueue.java#346#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokenQueue.java#347#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/TokenQueue.java#348#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokenQueue.java#350#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/QueryParser.java#146#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#187#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/select/QueryParser.java#188#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#191#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/QueryParser.java#194#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#195#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#794#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#756#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/TokeniserState.java#755#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/select/QueryParser.java#145#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/QueryParser.java#143#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokenQueue.java#123#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/QueryParser.java#51#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#54#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/select/QueryParser.java#67#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Element.java#255#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/QueryParser.java#141#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/Selector.java#60#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Selector.java#61#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Selector.java#62#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#172#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Selector.java#63#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Selector.java#64#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Selector.java#66#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Selector.java#68#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Selector.java#69#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokenQueue.java#89#class org.eclipse.jdt.core.dom.EnhancedForStatement
+org/jsoup/parser/TokenQueue.java#90#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokenQueue.java#93#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/Selector.java#79#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokenQueue.java#132#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokenQueue.java#140#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokenQueue.java#308#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokenQueue.java#309#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/TokenQueue.java#313#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/Selector.java#101#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/QueryParser.java#25#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/QueryParser.java#19#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/select/QueryParser.java#26#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#27#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#28#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/QueryParser.java#36#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/select/QueryParser.java#37#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/QueryParser.java#45#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/QueryParser.java#47#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokenQueue.java#22#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokenQueue.java#119#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokenQueue.java#23#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokenQueue.java#24#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokenQueue.java#31#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#341#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokenQueue.java#35#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokenQueue.java#70#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokenQueue.java#21#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokenQueue.java#13#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/jsoup/parser/HtmlTreeBuilderState.java#334#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#428#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#325#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/Evaluator.java#32#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Evaluator.java#33#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Evaluator.java#34#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Evaluator.java#38#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#128#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/helper/StringUtil.java#127#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#120#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#121#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#131#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#116#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/StringUtil.java#107#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/StringUtil.java#109#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/StringUtil.java#110#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/StringUtil.java#112#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/StringUtil.java#114#class org.eclipse.jdt.core.dom.ForStatement
+org/jsoup/helper/StringUtil.java#115#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attributes.java#56#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Attributes.java#57#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attributes.java#58#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attributes.java#59#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Attributes.java#55#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attribute.java#33#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/nodes/Attribute.java#22#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attribute.java#23#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attribute.java#24#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attribute.java#25#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Attribute.java#26#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Attribute.java#21#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/nodes/Element.java#865#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tag.java#153#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/Elements.java#499#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/Collector.java#43#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Collector.java#25#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/Elements.java#18#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Elements.java#19#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Elements.java#20#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Evaluator.java#16#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Collector.java#33#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Collector.java#34#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Collector.java#35#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Collector.java#36#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/Collector.java#37#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Collector.java#40#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/Collector.java#41#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/select/Collector.java#42#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/select/Evaluator.java#15#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Collector.java#45#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Collector.java#49#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/select/Collector.java#23#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/select/Collector.java#24#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#463#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#256#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#255#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/TextNode.java#61#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#224#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#214#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#211#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#134#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#138#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#1464#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#588#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#267#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#268#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/HtmlTreeBuilder.java#273#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#179#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#146#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/TokeniserState.java#145#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#165#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#169#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#170#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#171#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#263#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#264#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/HtmlTreeBuilder.java#265#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#266#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#413#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/select/NodeTraversor.java#43#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#569#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#124#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#128#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#122#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#559#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#560#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#561#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/helper/DescendableLinkedList.java#80#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/DescendableLinkedList.java#79#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/HtmlTreeBuilder.java#412#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilder.java#404#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#408#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#432#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilder.java#409#class org.eclipse.jdt.core.dom.WhileStatement
+org/jsoup/parser/HtmlTreeBuilder.java#410#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilder.java#411#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#109#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#110#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#112#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#108#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#67#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#68#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/nodes/Node.java#469#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/StringUtil.java#137#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/DescendableLinkedList.java#72#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#285#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#275#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#273#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/HtmlTreeBuilderState.java#274#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/helper/DescendableLinkedList.java#48#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/DescendableLinkedList.java#57#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/DescendableLinkedList.java#64#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/helper/DescendableLinkedList.java#55#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/helper/DescendableLinkedList.java#56#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#33#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#32#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#36#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#200#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#201#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#202#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/select/NodeTraversor.java#37#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/select/NodeTraversor.java#38#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/nodes/Node.java#204#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Tokeniser.java#174#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#78#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/Token.java#74#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#62#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/Tokeniser.java#63#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#64#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#66#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Tokeniser.java#172#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#173#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#152#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#153#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#151#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/Token.java#101#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#167#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/Tokeniser.java#168#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/Token.java#102#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#185#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#186#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#211#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#188#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/CharacterReader.java#244#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#245#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#15#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#161#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#140#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/TokeniserState.java#16#class org.eclipse.jdt.core.dom.BreakStatement
+org/jsoup/parser/CharacterReader.java#242#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/CharacterReader.java#37#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/CharacterReader.java#38#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/CharacterReader.java#39#class org.eclipse.jdt.core.dom.ReturnStatement
+org/jsoup/parser/TokeniserState.java#927#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#926#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#995#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/jsoup/parser/TokeniserState.java#998#class org.eclipse.jdt.core.dom.SwitchStatement
+org/jsoup/parser/TokeniserState.java#994#class org.eclipse.jdt.core.dom.IfStatement
+org/jsoup/parser/TokeniserState.java#993#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/jsoup/parser/TokeniserState.java#1036#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/jsoup/parser/TokeniserState.java#997#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
