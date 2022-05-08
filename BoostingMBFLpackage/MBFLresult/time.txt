@@ -1,0 +1,5 @@
+Project: time
+
+top-k Muse(old/new) 
+top1:  0   top3:  2   top5:  2   top10:  2   top20:  4   top30:  4   top50:  4       totalcost:509461
+top1:  0   top3:  1   top5:  2   top10:  2   top20:  3   top30:  3   top50:  3       totalcost:507425
