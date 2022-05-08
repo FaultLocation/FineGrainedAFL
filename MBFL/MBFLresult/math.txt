@@ -1,4 +1,0 @@
-Project: math
-top-k Muse(old/new) 
-top1:  5   top3:  13   top5:  19   top10:  23   top20:  30   top30:  30   top50:  32       totalcost:2405362
-top1:  8   top3:  16   top5:  19   top10:  24   top20:  30   top30:  32   top50:  38       totalcost:2403909

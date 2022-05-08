@@ -1,4 +1,0 @@
-Project: chart
-top-k Muse(old/new) 
-top1:  2   top3:  3   top5:  4   top10:  4   top20:  6   top30:  7   top50:  9       totalcost:700342
-top1:  3   top3:  4   top5:  5   top10:  6   top20:  6   top30:  6   top50:  7       totalcost:701201

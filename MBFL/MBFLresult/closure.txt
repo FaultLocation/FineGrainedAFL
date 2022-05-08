@@ -1,4 +1,0 @@
-Project: closure
-top-k Muse(old/new) 
-top1:  6   top3:  10   top5:  12   top10:  14   top20:  17   top30:  21   top50:  24       totalcost:2844600
-top1:  6   top3:  10   top5:  12   top10:  17   top20:  24   top30:  27   top50:  31       totalcost:2835343

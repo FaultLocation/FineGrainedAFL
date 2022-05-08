@@ -1,5 +1,0 @@
-Project: lang
-
-top-k Muse(old/new) 
-top1:  6   top3:  10   top5:  12   top10:  13   top20:  14   top30:  14   top50:  14       totalcost:1800230
-top1:  9   top3:  9   top5:  11   top10:  13   top20:  13   top30:  13   top50:  14       totalcost:1800252
