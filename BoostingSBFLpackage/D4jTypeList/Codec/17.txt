@@ -1,0 +1,3 @@
+org/apache/commons/codec/binary/StringUtils.java#339#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/codec/binary/StringUtils.java#419#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/codec/binary/StringUtils.java#293#class org.eclipse.jdt.core.dom.ReturnStatement

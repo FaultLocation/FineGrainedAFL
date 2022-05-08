@@ -1,0 +1,14 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#455#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#458#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#461#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#462#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#463#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#469#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#56#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#64#class org.eclipse.jdt.core.dom.MethodDeclaration
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#63#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#50#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#52#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#53#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#54#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java#55#class org.eclipse.jdt.core.dom.FieldDeclaration

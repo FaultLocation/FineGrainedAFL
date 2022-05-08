@@ -1,0 +1,15 @@
+org/apache/commons/codec/binary/StringUtils.java#81#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#51#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#54#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#55#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#56#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#58#class org.eclipse.jdt.core.dom.WhileStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#59#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#60#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#62#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#63#class org.eclipse.jdt.core.dom.ContinueStatement
+org/apache/commons/codec/binary/CharSequenceUtils.java#77#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/codec/binary/StringUtils.java#78#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/codec/binary/StringUtils.java#72#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/codec/binary/StringUtils.java#75#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/codec/binary/StringUtils.java#76#class org.eclipse.jdt.core.dom.ReturnStatement
