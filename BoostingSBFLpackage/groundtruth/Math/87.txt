@@ -1,0 +1,4 @@
+org/apache/commons/math/optimization/linear/SimplexTableau.java#275
+org/apache/commons/math/optimization/linear/SimplexTableau.java#276
+org/apache/commons/math/optimization/linear/SimplexTableau.java#277
+org/apache/commons/math/optimization/linear/SimplexTableau.java#277

@@ -1,0 +1,7 @@
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#240
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#241
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#242
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#243
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#245
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#258
+org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java#258

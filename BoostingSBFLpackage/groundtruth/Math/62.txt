@@ -1,0 +1,5 @@
+org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java#146
+org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java#160
+org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java#161
+org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java#162
+org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java#162

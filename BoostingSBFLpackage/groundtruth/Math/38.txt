@@ -1,0 +1,4 @@
+org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java#1662
+org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java#1663
+org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java#1752
+org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java#1752

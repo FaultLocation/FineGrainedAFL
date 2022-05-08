@@ -1,0 +1,14 @@
+org/apache/commons/math3/util/ContinuedFraction.java#134
+org/apache/commons/math3/util/ContinuedFraction.java#135
+org/apache/commons/math3/util/ContinuedFraction.java#143
+org/apache/commons/math3/util/ContinuedFraction.java#144
+org/apache/commons/math3/util/ContinuedFraction.java#145
+org/apache/commons/math3/util/ContinuedFraction.java#145
+org/apache/commons/math3/util/ContinuedFraction.java#169
+org/apache/commons/math3/util/ContinuedFraction.java#170
+org/apache/commons/math3/util/ContinuedFraction.java#185
+org/apache/commons/math3/util/ContinuedFraction.java#186
+org/apache/commons/math3/util/ContinuedFraction.java#187
+org/apache/commons/math3/util/ContinuedFraction.java#188
+org/apache/commons/math3/util/ContinuedFraction.java#189
+org/apache/commons/math3/util/ContinuedFraction.java#189
