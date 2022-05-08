@@ -1,0 +1,3 @@
+org/apache/commons/cli/HelpFormatter.java#936
+org/apache/commons/cli/HelpFormatter.java#937
+org/apache/commons/cli/HelpFormatter.java#940
