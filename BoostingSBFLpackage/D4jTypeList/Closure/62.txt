@@ -1,0 +1,74 @@
+com/google/javascript/jscomp/LightweightMessageFormatter.java#90#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#91#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#92#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#97#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#59#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#75#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#76#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#77#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#78#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#79#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#81#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#84#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#85#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#87#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#88#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#89#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#122#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#68#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#69#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#74#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#110#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#44#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#74#class org.eclipse.jdt.core.dom.SwitchStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#75#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#82#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#64#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractMessageFormatter.java#65#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#66#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractMessageFormatter.java#58#unknown
+com/google/javascript/jscomp/AbstractMessageFormatter.java#59#unknown
+com/google/javascript/jscomp/AbstractMessageFormatter.java#60#unknown
+com/google/javascript/jscomp/AbstractMessageFormatter.java#57#unknown
+com/google/javascript/jscomp/SourceExcerptProvider.java#36#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/AbstractMessageFormatter.java#74#class org.eclipse.jdt.core.dom.SwitchStatement
+com/google/javascript/jscomp/JSError.java#85#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/JSError.java#200#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/JSError.java#141#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/JSError.java#142#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#143#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#144#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#145#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#146#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#147#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#148#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/JSError.java#149#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/LightweightMessageFormatter.java#50#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#51#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#52#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/LightweightMessageFormatter.java#44#class org.eclipse.jdt.core.dom.ConstructorInvocation
+com/google/javascript/jscomp/LightweightMessageFormatter.java#45#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/LightweightMessageFormatter.java#49#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/jscomp/AbstractMessageFormatter.java#34#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractMessageFormatter.java#47#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/LightweightMessageFormatter.java#32#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/SourceExcerptProvider.java#43#unknown
+com/google/javascript/jscomp/SourceExcerptProvider.java#28#unknown
+com/google/javascript/jscomp/SourceExcerptProvider.java#32#unknown
+com/google/javascript/jscomp/SourceExcerptProvider.java#43#unknown
+com/google/javascript/jscomp/SourceExcerptProvider.java#32#unknown
+com/google/javascript/jscomp/AbstractMessageFormatter.java#32#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/AbstractMessageFormatter.java#33#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/LightweightMessageFormatter.java#120#unknown
+com/google/javascript/jscomp/DiagnosticType.java#54#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/DiagnosticType.java#98#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/DiagnosticType.java#99#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/DiagnosticType.java#100#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/DiagnosticType.java#102#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/DiagnosticType.java#103#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/DiagnosticType.java#97#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/DiagnosticType.java#90#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CheckLevel.java#26#unknown
+com/google/javascript/jscomp/CheckLevel.java#27#unknown
+com/google/javascript/jscomp/CheckLevel.java#24#unknown
+com/google/javascript/jscomp/CheckLevel.java#25#unknown

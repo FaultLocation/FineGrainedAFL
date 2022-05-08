@@ -1,0 +1,157 @@
+com/google/javascript/jscomp/NodeUtil.java#2147#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/NodeUtil.java#1196#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CodeGenerator.java#98#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodeGenerator.java#102#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#106#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#111#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodeGenerator.java#116#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodeGenerator.java#122#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#504#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/rhino/Node.java#155#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/rhino/Node.java#156#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#157#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodeGenerator.java#1176#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/NodeUtil.java#1452#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/NodeUtil.java#1437#class org.eclipse.jdt.core.dom.SwitchStatement
+com/google/javascript/rhino/Node.java#380#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/rhino/Node.java#381#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#383#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#385#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#387#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#389#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#390#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#391#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#392#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#393#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#394#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#395#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#396#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#397#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#398#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/rhino/Node.java#366#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/rhino/Node.java#367#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#369#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#372#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#373#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#374#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#375#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#376#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#377#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#378#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodeGenerator.java#891#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodeGenerator.java#884#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/NodeUtil.java#1162#class org.eclipse.jdt.core.dom.SwitchStatement
+com/google/javascript/jscomp/CodePrinter.java#613#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#614#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CodePrinter.java#435#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#436#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#437#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodePrinter.java#402#unknown
+com/google/javascript/jscomp/CodePrinter.java#434#class org.eclipse.jdt.core.dom.SuperConstructorInvocation
+com/google/javascript/jscomp/CodePrinter.java#417#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#418#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#419#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#420#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#677#unknown
+com/google/javascript/jscomp/CodePrinter.java#678#unknown
+com/google/javascript/jscomp/CodePrinter.java#548#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#549#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#550#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#551#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#552#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#553#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#557#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#565#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#566#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodePrinter.java#60#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodePrinter.java#52#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#54#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#55#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#61#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#62#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#64#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#65#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#66#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#67#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#68#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodeConsumer.java#53#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CodePrinter.java#564#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodePrinter.java#547#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodePrinter.java#658#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodePrinter.java#663#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodePrinter.java#669#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/CodePrinter.java#35#unknown
+com/google/javascript/jscomp/CodePrinter.java#691#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#693#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodePrinter.java#694#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodePrinter.java#701#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodePrinter.java#706#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodePrinter.java#710#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodePrinter.java#675#unknown
+com/google/javascript/jscomp/CodePrinter.java#676#unknown
+com/google/javascript/jscomp/CodeGenerator.java#56#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodeGenerator.java#60#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodeGenerator.java#82#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodeGenerator.java#86#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodeGenerator.java#90#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#91#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#92#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#93#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#94#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/jscomp/CodeGenerator.java#97#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodeConsumer.java#31#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodeConsumer.java#32#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodeConsumer.java#29#unknown
+com/google/javascript/jscomp/NodeUtil.java#2124#class org.eclipse.jdt.core.dom.SwitchStatement
+com/google/javascript/jscomp/CodeConsumer.java#30#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodeGenerator.java#49#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/jscomp/CodeGenerator.java#38#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/CodeGenerator.java#50#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/CodeGenerator.java#51#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/jscomp/CodeGenerator.java#1154#unknown
+com/google/javascript/jscomp/CodeGenerator.java#1155#unknown
+com/google/javascript/jscomp/CodeGenerator.java#1156#unknown
+com/google/javascript/jscomp/CodeGenerator.java#1157#unknown
+com/google/javascript/jscomp/CodeGenerator.java#1158#unknown
+com/google/javascript/jscomp/CodeGenerator.java#1162#unknown
+com/google/javascript/jscomp/CodeGenerator.java#1163#unknown
+com/google/javascript/jscomp/CodeGenerator.java#40#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/rhino/Node.java#618#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/rhino/Node.java#616#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#617#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#544#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/rhino/Node.java#1407#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#1409#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/rhino/Node.java#1406#class org.eclipse.jdt.core.dom.ForStatement
+com/google/javascript/rhino/Node.java#1405#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+com/google/javascript/rhino/Node.java#612#class org.eclipse.jdt.core.dom.IfStatement
+com/google/javascript/rhino/Node.java#608#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#609#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#610#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#611#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/jscomp/NodeUtil.java#2606#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#50#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#58#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#961#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#964#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#966#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#968#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#1256#unknown
+com/google/javascript/jscomp/NodeUtil.java#1309#unknown
+com/google/javascript/jscomp/NodeUtil.java#1367#unknown
+com/google/javascript/jscomp/NodeUtil.java#2599#unknown
+com/google/javascript/jscomp/NodeUtil.java#1263#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#1316#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/jscomp/NodeUtil.java#1374#class org.eclipse.jdt.core.dom.FieldDeclaration
+com/google/javascript/rhino/Node.java#540#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/jscomp/SourceMap.java#79#unknown
+com/google/javascript/jscomp/SourceMap.java#86#unknown
+com/google/javascript/jscomp/SourceMap.java#79#unknown
+com/google/javascript/jscomp/SourceMap.java#86#unknown
+com/google/javascript/jscomp/SourceMap.java#76#unknown
+com/google/javascript/rhino/Node.java#528#class org.eclipse.jdt.core.dom.ReturnStatement
+com/google/javascript/rhino/Node.java#361#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#362#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#363#class org.eclipse.jdt.core.dom.ExpressionStatement
+com/google/javascript/rhino/Node.java#364#class org.eclipse.jdt.core.dom.MethodDeclaration
+com/google/javascript/rhino/Node.java#360#class org.eclipse.jdt.core.dom.MethodDeclaration
