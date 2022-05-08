@@ -1,0 +1,26 @@
+org/apache/commons/cli/HelpFormatter.java#936#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/apache/commons/cli/HelpFormatter.java#938#class org.eclipse.jdt.core.dom.WhileStatement
+org/apache/commons/cli/HelpFormatter.java#940#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/apache/commons/cli/HelpFormatter.java#942#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/cli/HelpFormatter.java#919#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/apache/commons/cli/HelpFormatter.java#924#class org.eclipse.jdt.core.dom.WhileStatement
+org/apache/commons/cli/HelpFormatter.java#926#class org.eclipse.jdt.core.dom.ExpressionStatement
+org/apache/commons/cli/HelpFormatter.java#930#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/cli/HelpFormatter.java#907#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/cli/HelpFormatter.java#912#class org.eclipse.jdt.core.dom.IfStatement
+org/apache/commons/cli/HelpFormatter.java#142#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#991#unknown
+org/apache/commons/cli/HelpFormatter.java#36#unknown
+org/apache/commons/cli/HelpFormatter.java#75#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#83#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#92#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#100#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#108#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#116#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#124#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#127#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#135#class org.eclipse.jdt.core.dom.FieldDeclaration
+org/apache/commons/cli/HelpFormatter.java#991#unknown
+org/apache/commons/cli/HelpFormatter.java#932#class org.eclipse.jdt.core.dom.ReturnStatement
+org/apache/commons/cli/HelpFormatter.java#848#class org.eclipse.jdt.core.dom.VariableDeclarationStatement
+org/apache/commons/cli/HelpFormatter.java#914#class org.eclipse.jdt.core.dom.ReturnStatement
