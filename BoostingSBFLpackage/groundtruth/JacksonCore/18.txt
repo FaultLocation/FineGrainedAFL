@@ -1,0 +1,2 @@
+com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java#686
+com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.java#690

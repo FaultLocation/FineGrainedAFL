@@ -1,0 +1,4 @@
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java#639
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java#640
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java#646
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.java#646

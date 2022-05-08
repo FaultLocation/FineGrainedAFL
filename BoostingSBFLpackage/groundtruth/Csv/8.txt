@@ -1,0 +1,5 @@
+org/apache/commons/csv/CSVFormat.java#665
+org/apache/commons/csv/CSVFormat.java#666
+org/apache/commons/csv/CSVFormat.java#667
+org/apache/commons/csv/CSVFormat.java#668
+org/apache/commons/csv/CSVFormat.java#669
