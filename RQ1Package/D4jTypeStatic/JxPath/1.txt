@@ -1,0 +1,27 @@
+
+Project:  JxPath
+AssertStatement:  0
+Block:  4392
+BreakStatement:  277
+ConstructorInvocation:  128
+ContinueStatement:  23
+DoStatement:  6
+EmptyStatement:  22
+EnhancedForStatement:  0
+ExpressionStatement:  3684
+ForStatement:  146
+IfStatement:  2414
+LabeledStatement:  18
+ReturnStatement:  3097
+SuperConstructorInvocation:  0
+SwitchCase:  1132
+SwitchStatement:  84
+SynchronizedStatement:  6
+ThrowStatement:  196
+TryStatement:  86
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  1285
+WhileStatement:  132
+ImportDeclaration:  1008
+
+项目：     JxPath     编号截至：200

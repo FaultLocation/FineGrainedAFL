@@ -1,0 +1,27 @@
+
+Project:  Time
+AssertStatement:  0
+Block:  15137
+BreakStatement:  132
+ConstructorInvocation:  603
+ContinueStatement:  13
+DoStatement:  2
+EmptyStatement:  0
+EnhancedForStatement:  10
+ExpressionStatement:  29835
+ForStatement:  285
+IfStatement:  2259
+LabeledStatement:  3
+ReturnStatement:  4755
+SuperConstructorInvocation:  0
+SwitchCase:  383
+SwitchStatement:  47
+SynchronizedStatement:  15
+ThrowStatement:  427
+TryStatement:  1440
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  9262
+WhileStatement:  48
+ImportDeclaration:  2349
+
+项目：     Time     编号截至：316

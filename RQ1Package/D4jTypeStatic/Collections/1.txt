@@ -1,0 +1,27 @@
+
+Project:  Collections
+AssertStatement:  0
+Block:  11391
+BreakStatement:  51
+ConstructorInvocation:  689
+ContinueStatement:  7
+DoStatement:  1
+EmptyStatement:  0
+EnhancedForStatement:  279
+ExpressionStatement:  14874
+ForStatement:  327
+IfStatement:  2047
+LabeledStatement:  0
+ReturnStatement:  4704
+SuperConstructorInvocation:  0
+SwitchCase:  133
+SwitchStatement:  36
+SynchronizedStatement:  65
+ThrowStatement:  723
+TryStatement:  759
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  4272
+WhileStatement:  229
+ImportDeclaration:  2836
+
+项目：     Collections     编号截至：505

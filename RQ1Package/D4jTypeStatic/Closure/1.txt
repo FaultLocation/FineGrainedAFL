@@ -1,0 +1,27 @@
+
+Project:  Closure
+AssertStatement:  35
+Block:  44395
+BreakStatement:  2837
+ConstructorInvocation:  522
+ContinueStatement:  453
+DoStatement:  68
+EmptyStatement:  0
+EnhancedForStatement:  1120
+ExpressionStatement:  57872
+ForStatement:  1261
+IfStatement:  15427
+LabeledStatement:  93
+ReturnStatement:  15068
+SuperConstructorInvocation:  0
+SwitchCase:  7569
+SwitchStatement:  665
+SynchronizedStatement:  44
+ThrowStatement:  1455
+TryStatement:  487
+TypeDeclarationStatement:  4
+VariableDeclarationStatement:  19254
+WhileStatement:  467
+ImportDeclaration:  5610
+
+项目：     Closure     编号截至：991

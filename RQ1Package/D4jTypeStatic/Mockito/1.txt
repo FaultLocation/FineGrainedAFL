@@ -1,0 +1,27 @@
+
+Project:  Mockito
+AssertStatement:  9
+Block:  9916
+BreakStatement:  404
+ConstructorInvocation:  178
+ContinueStatement:  13
+DoStatement:  6
+EmptyStatement:  4
+EnhancedForStatement:  123
+ExpressionStatement:  12601
+ForStatement:  430
+IfStatement:  2164
+LabeledStatement:  2
+ReturnStatement:  2950
+SuperConstructorInvocation:  0
+SwitchCase:  1149
+SwitchStatement:  85
+SynchronizedStatement:  9
+ThrowStatement:  517
+TryStatement:  518
+TypeDeclarationStatement:  13
+VariableDeclarationStatement:  3278
+WhileStatement:  140
+ImportDeclaration:  4961
+
+项目：     Mockito     编号截至：930

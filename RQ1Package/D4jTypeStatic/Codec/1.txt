@@ -1,0 +1,27 @@
+
+Project:  Codec
+AssertStatement:  0
+Block:  1047
+BreakStatement:  61
+ConstructorInvocation:  31
+ContinueStatement:  1
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  0
+ExpressionStatement:  2372
+ForStatement:  65
+IfStatement:  284
+LabeledStatement:  0
+ReturnStatement:  297
+SuperConstructorInvocation:  0
+SwitchCase:  67
+SwitchStatement:  4
+SynchronizedStatement:  0
+ThrowStatement:  42
+TryStatement:  64
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  424
+WhileStatement:  5
+ImportDeclaration:  129
+
+项目：     Codec     编号截至：42

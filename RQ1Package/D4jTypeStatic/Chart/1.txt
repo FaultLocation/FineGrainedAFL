@@ -1,0 +1,27 @@
+
+Project:  Chart
+AssertStatement:  0
+Block:  25576
+BreakStatement:  89
+ConstructorInvocation:  969
+ContinueStatement:  25
+DoStatement:  5
+EmptyStatement:  1
+EnhancedForStatement:  0
+ExpressionStatement:  38613
+ForStatement:  699
+IfStatement:  9590
+LabeledStatement:  0
+ReturnStatement:  8464
+SuperConstructorInvocation:  0
+SwitchCase:  167
+SwitchStatement:  26
+SynchronizedStatement:  3
+ThrowStatement:  1282
+TryStatement:  1058
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  17820
+WhileStatement:  270
+ImportDeclaration:  11276
+
+项目：     Chart     编号截至：1059
