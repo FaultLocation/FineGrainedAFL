@@ -1,0 +1,25 @@
+
+Project:  Math
+AssertStatement:  0
+Block:  0
+BreakStatement:  1
+ConstructorInvocation:  0
+ContinueStatement:  0
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  2
+ExpressionStatement:  60
+ForStatement:  8
+IfStatement:  43
+LabeledStatement:  0
+ReturnStatement:  33
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  5
+SynchronizedStatement:  0
+ThrowStatement:  10
+TryStatement:  1
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  53
+WhileStatement:  4
+ImportDeclaration:  1

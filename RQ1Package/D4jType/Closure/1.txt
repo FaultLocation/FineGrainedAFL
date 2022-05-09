@@ -1,0 +1,25 @@
+
+Project:  Closure
+AssertStatement:  0
+Block:  0
+BreakStatement:  2
+ConstructorInvocation:  0
+ContinueStatement:  1
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  4
+ExpressionStatement:  38
+ForStatement:  3
+IfStatement:  72
+LabeledStatement:  1
+ReturnStatement:  23
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  26
+SynchronizedStatement:  0
+ThrowStatement:  0
+TryStatement:  0
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  32
+WhileStatement:  0
+ImportDeclaration:  0

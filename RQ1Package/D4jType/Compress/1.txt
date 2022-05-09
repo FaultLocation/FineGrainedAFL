@@ -1,0 +1,25 @@
+
+Project:  Compress
+AssertStatement:  0
+Block:  0
+BreakStatement:  2
+ConstructorInvocation:  0
+ContinueStatement:  1
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  1
+ExpressionStatement:  22
+ForStatement:  1
+IfStatement:  28
+LabeledStatement:  0
+ReturnStatement:  8
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  9
+SynchronizedStatement:  0
+ThrowStatement:  4
+TryStatement:  0
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  9
+WhileStatement:  2
+ImportDeclaration:  0

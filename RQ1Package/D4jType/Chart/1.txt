@@ -1,0 +1,25 @@
+
+Project:  Chart
+AssertStatement:  0
+Block:  0
+BreakStatement:  0
+ConstructorInvocation:  2
+ContinueStatement:  0
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  0
+ExpressionStatement:  4
+ForStatement:  0
+IfStatement:  3
+LabeledStatement:  0
+ReturnStatement:  3
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  0
+SynchronizedStatement:  0
+ThrowStatement:  0
+TryStatement:  0
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  8
+WhileStatement:  0
+ImportDeclaration:  0

@@ -1,0 +1,25 @@
+
+Project:  Lang
+AssertStatement:  0
+Block:  0
+BreakStatement:  0
+ConstructorInvocation:  0
+ContinueStatement:  1
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  1
+ExpressionStatement:  28
+ForStatement:  2
+IfStatement:  20
+LabeledStatement:  0
+ReturnStatement:  16
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  2
+SynchronizedStatement:  0
+ThrowStatement:  0
+TryStatement:  0
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  12
+WhileStatement:  1
+ImportDeclaration:  0

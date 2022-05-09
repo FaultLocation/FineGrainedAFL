@@ -1,0 +1,25 @@
+
+Project:  JxPath
+AssertStatement:  0
+Block:  0
+BreakStatement:  0
+ConstructorInvocation:  1
+ContinueStatement:  0
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  0
+ExpressionStatement:  5
+ForStatement:  0
+IfStatement:  13
+LabeledStatement:  0
+ReturnStatement:  21
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  3
+SynchronizedStatement:  0
+ThrowStatement:  0
+TryStatement:  0
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  12
+WhileStatement:  0
+ImportDeclaration:  10

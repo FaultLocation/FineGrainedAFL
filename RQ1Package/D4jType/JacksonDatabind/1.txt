@@ -1,0 +1,25 @@
+
+Project:  JacksonDatabind
+AssertStatement:  0
+Block:  0
+BreakStatement:  0
+ConstructorInvocation:  0
+ContinueStatement:  0
+DoStatement:  0
+EmptyStatement:  0
+EnhancedForStatement:  0
+ExpressionStatement:  53
+ForStatement:  0
+IfStatement:  46
+LabeledStatement:  2
+ReturnStatement:  61
+SuperConstructorInvocation:  0
+SwitchCase:  0
+SwitchStatement:  11
+SynchronizedStatement:  0
+ThrowStatement:  10
+TryStatement:  2
+TypeDeclarationStatement:  0
+VariableDeclarationStatement:  36
+WhileStatement:  0
+ImportDeclaration:  1
